@@ -1,0 +1,3 @@
+The EmployeeDb-2020 shortcut is the database being manipulated.
+
+The other DB file is a new objkect created when the save button is pressed in the App. Unsure why.
